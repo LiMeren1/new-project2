@@ -1,0 +1,3 @@
+Розділ 7. Модель даних
+
+Таблиці: Books, Authors, Users, Loans.
